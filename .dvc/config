@@ -1,0 +1,4 @@
+[core]
+    remote = storage
+['remote "storage"']
+    url = C:\CodeMonkey\5 sem\mlops\3\mlops-3-kovalev-dvc-remote
